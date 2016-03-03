@@ -6,4 +6,3 @@ Some hills:
 * Scafell Pike
 * Blencathra
 * Helvellyn
-* Mount Fictional
