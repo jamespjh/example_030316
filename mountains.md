@@ -1,4 +1,4 @@
-A note about some mountains
+A note about some tall mountains
 ===========================
 
 Some hills:
